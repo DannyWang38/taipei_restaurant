@@ -28,6 +28,8 @@ hr.style-1:after {  /* Not really supposed to work, but does */
     color: black ;
     font-weight: 800; 
     text-decoration:none;
+    background: rgba(173, 216, 230, 0.3);
+   
 }
 .mark1{
     background: chartreuse;
