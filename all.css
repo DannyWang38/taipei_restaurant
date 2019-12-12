@@ -35,3 +35,10 @@ hr.style-1:after {  /* Not really supposed to work, but does */
 .mark1{
     background: chartreuse;
 }
+.center{
+    display: table-cell;
+    vertical-align: middle;
+}
+section{
+    display: table;
+}
