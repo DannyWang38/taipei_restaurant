@@ -22,7 +22,12 @@ hr.style-1 {
 }
 hr.style-1:after {  /* Not really supposed to work, but does */
     content: "\00a0";  /* Prevent margin collapse */
-  }
+}
+
+hr.style-2 {
+       
+    /* height: 0; Firefox... */
+}
 .restaurant{
     
     font-size: 21px; 
